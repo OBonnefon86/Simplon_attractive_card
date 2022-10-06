@@ -1,0 +1,50 @@
+/*gros titre*/
+
+.titre {
+
+  height: 30px;
+  font-weight: 900;
+  font-family: serif;
+  margin-left: 200px;
+  justify-content: center;
+  text-align: center;
+  }
+
+  /*gros cadre*/
+
+  .encadré {
+size: 400px;
+padding: 20px; 
+height: 960px;
+width: 960px;
+    border: solid 4px;
+    background-image: url(https://bit.ly/3rirtzV)
+  }
+
+  /*petit cadre*/
+
+  .contact { 
+size: 100px;
+    height: 24px;
+font-weight: 700;
+font-family: serif;
+margin: 20px;
+  }
+
+  /*petit cadre*/
+
+  .date {
+    color:firebrick;
+  }
+
+  /*lien linkedin*/
+
+  .footer {
+    justify-content: center;
+    height: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    font-weight: 400;
+    color: #663737;
+  }
+  
